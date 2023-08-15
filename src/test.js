@@ -1,2 +1,2 @@
 const input = "hello eslint";
-console.log('hello');
+console.log(window);
