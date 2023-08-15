@@ -1,5 +1,10 @@
 module.exports = {
+    env: {
+        es6: true
+    },
     rules: {
-        semi: "error"
+        /** 分號 */
+        semi: "error",
+        "no-console": "error"
     }
 }
